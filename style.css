@@ -1,0 +1,54 @@
+body {
+    font-family: "Calibri";
+    background: linear-gradient(to right, aquamarine, #9796f0);
+}
+
+main {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+section {
+    margin-bottom: 6vh;
+   }
+
+   h1 {
+       font-size: 1.5em;
+       margin-bottom: 0;
+   }
+
+   input {
+       display: block;
+       width: 200px;
+       height: 30px;
+       border-radius: 4px;
+       border: 1px solid lightgray;
+       margin: 10px auto;
+       padding: 0 4px;
+       font-size: 1em;
+       font-family: "Calibri";
+   }
+
+   button {
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    background-color: slateblue;
+    color: white;
+    font-size: 1em;
+    font-family: "Calibri";
+    }
+
+    button:hover {
+        color: purple;
+        background-color: gray;
+    }
+    
+    .red {
+        color:red;
+    }
+
+    .green {
+        color: green;
+    }
